@@ -1,0 +1,75 @@
+﻿@using Singleton.WebApp.Models
+@using Singleton.Entities.ValueObject
+@using Singleton.Entities
+
+@model Tuple<HgsViewModel, HGS>
+
+
+@{
+    ViewBag.Title = "BakiyeSorgula";
+}
+
+<div class="row">
+
+    <div class="col-md-6 col-md-offset-3">
+
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            <br />
+            <br />
+            <br />
+            <h4>Bakiye Yükle</h4>
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+            @Html.HiddenFor(model => model.Item1.HgsBakiye)
+            @Html.HiddenFor(model => CurrentSession.User.TCKN)
+            @Html.HiddenFor(model => model.Item2.yuklenenHesapNo)
+
+            <div class="form-group">
+                @Html.LabelFor(model => CurrentSession.User.TCKN, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => CurrentSession.User.TCKN, new { htmlAttributes = new { @class = "form-control", @disabled = "disabled" } })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.Item2.yuklenenHesapNo, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Item2.yuklenenHesapNo, new { htmlAttributes = new { @class = "form-control", @disabled = "disabled" } })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.Item1.HgsBakiye, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Item1.HgsBakiye, new { htmlAttributes = new { @class = "form-control", @disabled = "disabled" } })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.Item2.Tutar, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Item2.Tutar, new { htmlAttributes = new { @class = "form-control", id = "tutar", maxlength = 10 } })
+                    @Html.ValidationMessageFor(model => model.Item2.Tutar, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Bakiye Yükle" class="btn btn-default" />
+                </div>
+            </div>
+
+        </div>
+        }
+
+        <div>
+            @Html.ActionLink("Geri Dön", "Index")
+        </div>
+    </div>
+
+
+</div>
+

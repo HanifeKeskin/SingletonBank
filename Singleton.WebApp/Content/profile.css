@@ -1,0 +1,66 @@
+﻿.containerProfile{
+    
+}
+.pageName{
+    font-size:30px;
+    font-weight:600;
+    padding-bottom:50px;
+    padding-left:15px;
+}
+.nameSurname {
+    padding: 15px;
+    font-size: 20px;
+}
+.phone {
+    padding: 15px;
+    font-size: 20px;
+}
+.email {
+    padding: 15px;
+    font-size: 20px;
+}
+.profileButton {
+    padding: 15px;
+    font-size: 20px;
+}
+.EditContainer{
+    padding-top:150px;
+}
+.editTitle {
+    font-size: 30px;
+    font-weight: 600;
+    padding-bottom: 30px;
+    padding-left: 15px;
+}
+.editName {
+    padding: 15px;
+    font-size: 20px;
+}
+
+.editSurname {
+    padding: 15px;
+    font-size: 20px;
+}
+.editAdress {
+    padding: 15px;
+    font-size: 20px;
+}
+.editPassword {
+    padding: 15px;
+    font-size: 20px;
+}
+.editE-posta {
+    padding: 15px;
+    font-size: 20px;
+}
+.editPhone {
+    padding: 15px;
+    font-size: 20px;
+}
+.editButton {
+    padding: 15px;
+    font-size: 20px;
+}
+.space{
+    margin-left:15px;
+}

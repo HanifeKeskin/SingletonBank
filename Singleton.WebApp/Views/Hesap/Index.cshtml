@@ -1,0 +1,91 @@
+﻿@using Singleton.WebApp.Models
+@model IEnumerable<Singleton.Entities.Hesap>
+
+@{
+    ViewBag.Title = "Hesaplar";
+}
+
+<div class="row">
+    <div class="col-md-10 col-md-offset-1">
+        <br />
+        <br />
+        <br />
+        <h2>Hesaplar</h2>
+        <hr />
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-10 col-md-offset-1">
+
+        <p>
+            @Html.ActionLink("Hesap Ekle", "Create")
+        </p>
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Musteri.Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Bakiye)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.MusteriNo)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.EkNo)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.HesapNo)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.IBAN)
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                if (CurrentSession.User.MusteriID == item.MusteriID)
+                {
+                    if(item.Durum == true) { 
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Musteri.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Bakiye)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.MusteriNo)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.EkNo)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.HesapNo)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.IBAN)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Para Çek", "Cek", new { id = item.HesapID }) |
+                        @Html.ActionLink("Para Yatır", "Yatir", new { id = item.HesapID }) |
+                        <br />
+                        @Html.ActionLink("Havale", "Havale", new { id = item.HesapID }) |
+                        @Html.ActionLink("Virman", "Virman", new { id = item.HesapID }) |
+                        @Html.ActionLink("Detay", "Details", new { id = item.HesapID }) |
+                        @Html.ActionLink("Sil", "Edit", new { id = item.HesapID })
+
+                    </td>
+                </tr>
+                    }
+                }
+            }
+
+        </table>
+
+    </div>
+
+</div>
+

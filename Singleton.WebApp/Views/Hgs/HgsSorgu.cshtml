@@ -1,0 +1,68 @@
+﻿@using Singleton.WebApp.Models
+
+@model Singleton.Entities.HGS
+
+@{
+    ViewBag.Title = "Hgs Sorgula";
+}
+
+<div>
+    <br />
+    <br />
+    <br />
+    <h4>HGS Bakiye Sorgula</h4>
+    <hr />
+    <dl class="dl-horizontal">
+
+        <dt>
+            @Html.DisplayNameFor(model => CurrentSession.User.TCKN)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => CurrentSession.User.TCKN)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => CurrentSession.User.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => CurrentSession.User.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => CurrentSession.User.Surname)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => CurrentSession.User.Surname)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Plaka)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Plaka)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HgsNo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HgsNo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HgsBakiyesi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HgsBakiyesi)
+        </dd>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Geri Dön", "Index")
+</p>

@@ -1,0 +1,103 @@
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.DAL.dll.config
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.DAL.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.DAL.pdb
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.DAL\bin\Debug\EntityFramework.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.Entities.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.Entities.pdb
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.Entities.dll.config
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.DAL\bin\Debug\EntityFramework.xml
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.DAL\obj\Debug\Singleton.DAL.csprojAssemblyReference.cache
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.DAL\obj\Debug\Singleton.DAL.csproj.CoreCompileInputs.cache
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.DAL\obj\Debug\Singleton.DAL.csproj.CopyComplete
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.DAL\obj\Debug\Singleton.DAL.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.DAL\obj\Debug\Singleton.DAL.pdb
+C:\Users\hp\Source\Repos\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.Core.dll
+C:\Users\hp\Source\Repos\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.Core.pdb
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.DAL.dll.config
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.DAL.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.DAL.pdb
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.Core.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.Entities.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.Core.pdb
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.Entities.pdb
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.Entities.dll.config
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.DAL\obj\Debug\Singleton.DAL.csprojAssemblyReference.cache
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.DAL\obj\Debug\Singleton.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.DAL\obj\Debug\Singleton.DAL.csproj.CopyComplete
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.DAL\obj\Debug\Singleton.DAL.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.DAL\obj\Debug\Singleton.DAL.pdb
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.DAL.dll.config
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.DAL.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.DAL.pdb
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.Core.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.Entities.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.Core.pdb
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.Entities.pdb
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.Entities.dll.config
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\obj\Debug\Singleton.DAL.csprojAssemblyReference.cache
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\obj\Debug\Singleton.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\obj\Debug\Singleton.DAL.csproj.CopyComplete
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\obj\Debug\Singleton.DAL.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\obj\Debug\Singleton.DAL.pdb
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.DAL.dll.config
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.DAL.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.DAL.pdb
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.Core.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.Entities.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.Core.pdb
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.Entities.pdb
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.Entities.dll.config
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\obj\Debug\Singleton.DAL.csprojAssemblyReference.cache
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\obj\Debug\Singleton.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\obj\Debug\Singleton.DAL.csproj.CopyComplete
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\obj\Debug\Singleton.DAL.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\obj\Debug\Singleton.DAL.pdb
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.DAL.dll.config
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.DAL.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.DAL.pdb
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\bin\Debug\EntityFramework.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.Core.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.Entities.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.Core.pdb
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.Entities.pdb
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.Entities.dll.config
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\bin\Debug\EntityFramework.xml
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\obj\Debug\Singleton.DAL.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\obj\Debug\Singleton.DAL.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\obj\Debug\Singleton.DAL.csproj.CopyComplete
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\obj\Debug\Singleton.DAL.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.DAL\obj\Debug\Singleton.DAL.pdb
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.DAL.dll.config
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.DAL.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.DAL.pdb
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.DAL\bin\Debug\EntityFramework.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.Core.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.Entities.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.Core.pdb
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.Entities.pdb
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.Entities.dll.config
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.DAL\bin\Debug\EntityFramework.xml
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.DAL\obj\Debug\Singleton.DAL.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.DAL\obj\Debug\Singleton.DAL.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.DAL\obj\Debug\Singleton.DAL.csproj.CopyComplete
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.DAL\obj\Debug\Singleton.DAL.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.DAL\obj\Debug\Singleton.DAL.pdb
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.DAL\bin\Debug\Singleton.Core.dll.config

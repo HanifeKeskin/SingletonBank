@@ -1,0 +1,49 @@
+﻿
+@using Singleton.WebApp.Models
+@model Singleton.Entities.HGS
+
+@{
+    ViewBag.Title = "Hgs İşlemleri";
+}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    <br />
+    <br />
+    <br />
+    <br />
+    <h3>İşlem yapmak istediğiniz hesabı seçiniz</h3>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    @Html.HiddenFor(model => CurrentSession.User.TCKN)
+    @*@Html.HiddenFor(model => model.HgsNo)*@
+
+
+    <div class="form-group">
+        @Html.LabelFor(model => CurrentSession.User.TCKN, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DisplayFor(model => CurrentSession.User.TCKN, new { htmlAttributes = new { @class = "form-control", id = "gonderen", maxlength = 13 } })
+            @Html.ValidationMessageFor(model => CurrentSession.User.TCKN, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.HgsNo, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @*@Html.DropDownListFor(model => model.HgsNo, new SelectList(ViewBag.hgsler, "HgsNo", "HgsNo"), new { @class = "form-control" })*@
+            @Html.DropDownListFor(model => model.HgsNo, new SelectList((System.Collections.IEnumerable)TempData["hgsler"], "Value", "Text"), new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.HgsNo, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Göster" class="btn btn-default" />
+            </div>
+        </div>
+
+</div>
+}

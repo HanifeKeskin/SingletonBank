@@ -1,0 +1,505 @@
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.WebApp.dll.config
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.WebApp.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.WebApp.pdb
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\csc.exe
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\csc.exe.config
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\csc.rsp
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\csi.exe
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\csi.exe.config
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\csi.rsp
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.AppContext.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Collections.Immutable.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Console.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.IO.Compression.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.IO.FileSystem.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.IO.Pipes.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.AccessControl.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.Claims.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.ValueTuple.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Xml.XPath.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\vbc.exe
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\vbc.exe.config
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\vbc.rsp
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\VBCSCompiler.exe
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\VBCSCompiler.exe.config
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\Microsoft.Web.Infrastructure.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Helpers.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Mvc.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Razor.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Webpages.Deployment.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Webpages.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Webpages.Razor.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Razor.xml
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Webpages.xml
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Webpages.Deployment.xml
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Webpages.Razor.xml
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Helpers.xml
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Mvc.xml
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\obj\Debug\Singleton.WebApp.csprojAssemblyReference.cache
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\obj\Debug\Singleton.WebApp.csproj.CoreCompileInputs.cache
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\obj\Debug\Singleton.WebApp.csproj.CopyComplete
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\obj\Debug\Singleton.WebApp.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\obj\Debug\Singleton.WebApp.pdb
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.Entities.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.Entities.pdb
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.Entities.dll.config
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.BL.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.DAL.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\EntityFramework.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.BL.pdb
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.BL.dll.config
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.DAL.pdb
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.DAL.dll.config
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\EntityFramework.xml
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\EntityFramework.SqlServer.dll
+c:\users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.Core.dll
+C:\Users\hp\Source\Repos\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.Core.pdb
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.WebApp.dll.config
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.WebApp.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.WebApp.pdb
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\csc.exe
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\csc.exe.config
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\csc.rsp
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\csi.exe
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\csi.exe.config
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\csi.rsp
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Console.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\vbc.exe
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\vbc.exe.config
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\vbc.rsp
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\EntityFramework.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.BL.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.Core.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.Entities.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Helpers.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Mvc.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Razor.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Webpages.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.DAL.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.BL.pdb
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.BL.dll.config
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.Core.pdb
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.Entities.pdb
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.Entities.dll.config
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\EntityFramework.xml
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Razor.xml
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Webpages.xml
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Helpers.xml
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Mvc.xml
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.DAL.pdb
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.DAL.dll.config
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\obj\Debug\Singleton.WebApp.csprojAssemblyReference.cache
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\obj\Debug\Singleton.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\obj\Debug\Singleton.WebApp.csproj.CopyComplete
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\obj\Debug\Singleton.WebApp.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\obj\Debug\Singleton.WebApp.pdb
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.WebApp.dll.config
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.WebApp.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.WebApp.pdb
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\csc.exe
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\csc.exe.config
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\csc.rsp
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\csi.exe
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\csi.exe.config
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\csi.rsp
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Console.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\vbc.exe
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\vbc.exe.config
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\vbc.rsp
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\EntityFramework.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.BL.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.Core.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.Entities.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Helpers.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Mvc.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Razor.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Webpages.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.DAL.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.BL.pdb
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.BL.dll.config
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.Core.pdb
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.Entities.pdb
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.Entities.dll.config
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\EntityFramework.xml
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Razor.xml
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Webpages.xml
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Helpers.xml
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Mvc.xml
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.DAL.pdb
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.DAL.dll.config
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\obj\Debug\Singleton.WebApp.csprojAssemblyReference.cache
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\obj\Debug\Singleton.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\obj\Debug\Singleton.WebApp.csproj.CopyComplete
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\obj\Debug\Singleton.WebApp.dll
+C:\Users\Aysegul\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\obj\Debug\Singleton.WebApp.pdb
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.WebApp.dll.config
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.WebApp.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.WebApp.pdb
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\csc.exe
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\csc.exe.config
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\csc.rsp
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\csi.exe
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\csi.exe.config
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\csi.rsp
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Console.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\vbc.exe
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\vbc.exe.config
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\vbc.rsp
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\EntityFramework.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.BL.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.Core.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.Entities.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Helpers.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Mvc.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Razor.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Webpages.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.DAL.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.BL.pdb
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.BL.dll.config
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.Core.pdb
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.Entities.pdb
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.Entities.dll.config
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\EntityFramework.xml
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Razor.xml
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Webpages.xml
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Helpers.xml
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Mvc.xml
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.DAL.pdb
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.DAL.dll.config
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\obj\Debug\Singleton.WebApp.csprojAssemblyReference.cache
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\obj\Debug\Singleton.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\obj\Debug\Singleton.WebApp.csproj.CopyComplete
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\obj\Debug\Singleton.WebApp.dll
+C:\Users\Toshiba\Desktop\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\obj\Debug\Singleton.WebApp.pdb
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.WebApp.dll.config
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.WebApp.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.WebApp.pdb
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\csc.exe
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\csc.exe.config
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\csc.rsp
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\csi.exe
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\csi.exe.config
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\csi.rsp
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Console.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\vbc.exe
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\vbc.exe.config
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\vbc.rsp
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\EntityFramework.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.BL.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.Core.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.Entities.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Helpers.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Mvc.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Razor.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Webpages.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.DAL.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.BL.pdb
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.BL.dll.config
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.Core.pdb
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.Entities.pdb
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.Entities.dll.config
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\EntityFramework.xml
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Razor.xml
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Webpages.xml
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Helpers.xml
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Mvc.xml
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.DAL.pdb
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.DAL.dll.config
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\obj\Debug\Singleton.WebApp.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\obj\Debug\Singleton.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\obj\Debug\Singleton.WebApp.csproj.CopyComplete
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\obj\Debug\Singleton.WebApp.dll
+C:\Users\hp\Desktop\Yeni klasör (2)\SingletonSolution1.1.HesapListelemeSilme\SingletonSolution1.1\Singleton.WebApp\obj\Debug\Singleton.WebApp.pdb
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.WebApp.dll.config
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.WebApp.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.WebApp.pdb
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\csc.exe
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\csc.exe.config
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\csc.rsp
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\csi.exe
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\csi.exe.config
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\csi.rsp
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Console.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\vbc.exe
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\vbc.exe.config
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\vbc.rsp
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\EntityFramework.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.BL.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.Core.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.Entities.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Helpers.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Mvc.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Razor.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Webpages.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.DAL.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.BL.pdb
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.BL.dll.config
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.Core.pdb
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.Entities.pdb
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.Entities.dll.config
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\EntityFramework.xml
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Razor.xml
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Webpages.xml
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Helpers.xml
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\System.Web.Mvc.xml
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.DAL.pdb
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.DAL.dll.config
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\obj\Debug\Singleton.WebApp.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\obj\Debug\Singleton.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\obj\Debug\Singleton.WebApp.csproj.CopyComplete
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\obj\Debug\Singleton.WebApp.dll
+C:\Users\hp\Desktop\SingletonSolution1.1\Singleton.WebApp\obj\Debug\Singleton.WebApp.pdb
+C:\Users\Toshiba\Desktop\SingletonSolution1.1\Singleton.WebApp\bin\Singleton.Core.dll.config
